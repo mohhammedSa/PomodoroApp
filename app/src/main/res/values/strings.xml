@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Pomodoro</string>
+    <string name="header_Text">Take A pomodoro</string>
+    <string name="header_Text_start">Keep Going …</string>
+    <string name="startBtnText">Start</string>
+    <string name="resetBtnText">Reset</string>
 </resources>
